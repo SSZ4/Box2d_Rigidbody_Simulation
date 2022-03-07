@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\sjinz\Desktop\2019 2학기 강의자료\인시\과제\과제1\OpenGL_skeleton\OpenGL_skeleton\main.cpp(3,9): error C1083:  포함 파일을 열 수 없습니다. 'Box2D/Box2D.h': No such file or directory

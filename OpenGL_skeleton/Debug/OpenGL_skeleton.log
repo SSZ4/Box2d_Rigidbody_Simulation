@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\sjinz\Desktop\2019 2학기 강의자료\인시\과제\과제1\OpenGL_skeleton\OpenGL_skeleton\main.cpp(725,20): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\sjinz\Desktop\2019 2학기 강의자료\인시\과제\과제1\OpenGL_skeleton\OpenGL_skeleton\main.cpp(734,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  OpenGL_skeleton.vcxproj -> C:\Users\sjinz\Desktop\2019 2학기 강의자료\인시\과제\과제1\OpenGL_skeleton\Debug\OpenGL_skeleton.exe
